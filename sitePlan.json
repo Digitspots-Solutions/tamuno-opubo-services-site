@@ -1,0 +1,42 @@
+{
+  "businessName": "Tamuno-opubo Services",
+  "industry": "Financial Services & Retail",
+  "tone": "warm and approachable",
+  "tagline": "Your Trusted Partner for Quick Transactions and Refreshments in Okrika",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Tamuno-opubo Services - Where Convenience Meets Quality. Fast POS transactions and a wide selection of refreshing drinks, all in one place at Okrika Market Square. We make your day easier with reliable service and friendly smiles.",
+      "imagePrompt": "Vibrant Nigerian market scene at Okrika market square, bustling with activity, colorful market stalls, POS terminal in foreground with cold drinks display, warm sunlight, authentic Rivers State atmosphere, customers engaging in transactions, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "At Tamuno-opubo Services, we understand the daily needs of our Okrika community. Located right in the heart of Okrika Market Square, we provide fast and secure POS services for all your banking needs - deposits, withdrawals, and transfers. Beyond financial services, we stock a refreshing variety of drinks to keep you cool under the Nigerian sun. Whether you're a trader looking to make quick transactions or a shopper needing a cold beverage, we've got you covered. Our commitment is simple: reliable service, fair rates, and a welcoming atmosphere for everyone.",
+      "imagePrompt": "Warm and inviting shop interior in Okrika market, wooden counter with modern POS machine, well-stocked refrigerator with assorted drinks visible, friendly Nigerian business owner smiling, natural lighting, authentic local business atmosphere, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "POS Banking Services: Quick and secure cash withdrawals, deposits, and bank transfers. All major Nigerian banks supported with competitive transaction rates and instant processing.\n\nDrinks & Refreshments: Stay refreshed with our selection of cold drinks including soft drinks, bottled water, energy drinks, and fruit juices. Perfect for the Okrika heat!\n\nWhy Choose Us: We're open throughout market hours, centrally located in Okrika Market Square for easy access, and known for our honest dealings and fast service. No long queues, no hidden charges - just straightforward service you can trust.",
+      "imagePrompt": "Split composition showing POS terminal processing transaction on left side and colorful array of chilled drinks in ice cooler on right side, Nigerian naira notes visible, condensation on cold bottles, vibrant market background, professional photography, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Find us at Okrika Market Square - we're easy to locate and always ready to serve you. Whether you need to withdraw cash for your shopping or grab a cold drink on a hot day, Tamuno-opubo Services is here for you.\n\nOpen during market hours, seven days a week. For inquiries or to confirm our opening hours, give us a call. We look forward to serving you!",
+      "imagePrompt": "Okrika market square entrance, recognizable Nigerian market architecture, clear signage for Tamuno-opubo Services, people walking in market setting, late afternoon golden hour lighting, welcoming atmosphere, authentic Rivers State location, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 805 602 6974",
+    "email": "",
+    "address": "Okrika Market Square, Okrika, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2348056026974"
+  }
+}
